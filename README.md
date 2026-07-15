@@ -1,14 +1,10 @@
-# 🌟 Salom! Men Shirin Zuhurjonova
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shirinzuhurjonova&color=ff69b4&style=flat-square&label=Profilimga+tashriflar" alt="shirinzuhurjonova" />
-</p>
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Salom!+Men+Shirin+👋;Zuhurjonova+Shirin+✨;Future+Developer+💻" alt="Typing SVG" /></p>
 
 ---
 
 ### 👩‍💻 Men haqimda
 
-Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak texnologiyalarini o'rganish uchun **Robbit Akademiyasida** dasturlash va IT sirlarini qunt bilan o'rganmoqdaman. ✨
+Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak texnologiyalarini o'rganish uchun **Robbit Akademiyasida** dasturlash va IT sirlarini qunt bilan o'rganmoqdaman. 🌟
 
 *   🏫 **Maktabim:** 10-maktab
 *   🚀 **Akademiya:** Robbit Akademiyasi o'quvchisiman
@@ -44,6 +40,9 @@ Agar men bilan bog'lanmoqchi bo'lsangiz:
 <p align="left">
   <a href="mailto:szuhurjonova@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+998504770713">
+    <img src="https://img.shields.io/badge/Telefon-4CAF50?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefon" />
   </a>
 </p>
 
