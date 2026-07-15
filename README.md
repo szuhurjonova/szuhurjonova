@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Salom!+Men+Shirin+👋;Zuhurjonova+Shirin+✨;Future+Developer+💻" alt="Typing SVG" /></p>
+# 🌟 Salom! Men Shirin Zuhurjonova
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shirinzuhurjonova&color=ff69b4&style=flat-square&label=Profilimga+tashriflar" alt="shirinzuhurjonova" />
@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Men haqimda
 
-Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak texnologiyalarini o'rganish uchun **Robbit Akademiyasida** dasturlash va IT sirlarini qunt bilan o'rganmoqdaman. 🌟
+Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak texnologiyalarini o'rganish uchun **Robbit Akademiyasida** dasturlash va IT sirlarini qunt bilan o'rganmoqdaman. ✨
 
 *   🏫 **Maktabim:** 10-maktab
 *   🚀 **Akademiya:** Robbit Akademiyasi o'quvchisiman
