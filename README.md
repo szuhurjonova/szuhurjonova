@@ -8,10 +8,10 @@
 
 Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak texnologiyalarini o'rganish uchun **Robbit Akademiyasida** dasturlash va IT sirlarini qunt bilan o'rganmoqdaman. 🌟
 
-*   🏫 **Maktabim:** 10-maktab
+*   🏫 **Maktab:** 10-maktab
 *   🚀 **Akademiya:** Robbit Akademiyasi o'quvchisiman
-*   🧠 **Hozirgi yo'nalishim:** Sun'iy intellekt (AI) texnologiyalarini o'rganyapman va faol ravishda **Lovable** platformasida ishlayapman!
-*   🎯 **Maqsadim:** Kelajakda kuchli dasturchi bo'lish va foydali loyihalar yaratish!
+*   🧠 **Hozirgi yo'nalish:** Sun'iy intellekt (AI) texnologiyalarini o'rganyapman va faol ravishda **Lovable** platformasida ishlayapman!
+*   🎯 **Maqsad:** Kelajakda kuchli dasturchi bo'lish va foydali loyihalar yaratish!
 
 ---
 
@@ -35,7 +35,7 @@ Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak 
 
 ---
 
-### 💬 Men bilan bog'lanish
+### 💬 Bog'lanish
 
 Agar men bilan bog'lanmoqchi bo'lsangiz:
 
@@ -54,6 +54,4 @@ Agar men bilan bog'lanmoqchi bo'lsangiz:
 
 ---
 
-<p align="center">
-  <i>"Kodingiz doimo xatosiz va kelajagingiz yorug' bo'lsin!" ✨</i>
-</p>
+
