@@ -1,4 +1,6 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Salom!+Men+Shirin+👋;Zuhurjonova+Shirin+✨;Future+Developer+💻" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,ff69b4,9b5de5&height=180&section=header&text=Shirin%20Zuhurjonova&fontSize=50&animation=fadeIn" width="100%" alt="Shirin Zuhurjonova" />
+</p>
 
 ---
 
