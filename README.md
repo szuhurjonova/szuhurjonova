@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/wU4O6T0w0H60U/giphy.gif" width="30px"> Salom! Men Shirin Zuhurjonova
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Salom!+Men+Shirin+👋;Zuhurjonova+Shirin+✨;Future+Developer+💻" alt="Typing SVG" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shirinzuhurjonova&color=ff69b4&style=flat-square&label=Profilimga+tashriflar" alt="shirinzuhurjonova" />
@@ -6,18 +6,18 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/iIWyD7T9Z0bN568S3i/giphy.gif" width="25px"> Men haqimda
+### 👩‍💻 Men haqimda
 
-Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak texnologiyalarini o'rganish uchun **Robbit Akademiyasida** dasturlash va IT sirlarini qunt bilan o'rganmoqdaman. ✨
+Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak texnologiyalarini o'rganish uchun **Robbit Akademiyasida** dasturlash va IT sirlarini qunt bilan o'rganmoqdaman. 🌟
 
-*   🏫 **Maktab:** 10-maktab
+*   🏫 **Maktabim:** 10-maktab
 *   🚀 **Akademiya:** Robbit Akademiyasi o'quvchisiman
-*   🧠 **Hozirgi yo'nalish:** Sun'iy intellekt (AI) texnologiyalarini o'rganyapman va faol ravishda **Lovable** platformasida ishlayapman!
-*   🎯 **Maqsad:** Kelajakda kuchli dasturchi bo'lish va foydali loyihalar yaratish!
+*   🧠 **Hozirgi yo'nalishim:** Sun'iy intellekt (AI) texnologiyalarini o'rganyapman va faol ravishda **Lovable** platformasida ishlayapman!
+*   🎯 **Maqsadim:** Kelajakda kuchli dasturchi bo'lish va foydali loyihalar yaratish!
 
 ---
 
-### <img src="https://media.giphy.com/media/jXU5M3N11WwP8XoK0j/giphy.gif" width="25px"> Men biladigan dasturlash tillari va texnologiyalar
+### 🛠️ Men biladigan dasturlash tillari va texnologiyalar
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,7 +26,7 @@ Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak 
   <img src="https://img.shields.io/badge/App_Inventor-A4C400?style=for-the-badge&logo=android&logoColor=white" alt="App Inventor" />
 </p>
 
-### <img src="https://media.giphy.com/media/iI0Ew5iL8pE06R42K5/giphy.gif" width="25px"> Men foydalanadigan dizayn va ijodiy ilovalar
+### 🎨 Men foydalanadigan dizayn va ijodiy ilovalar
 
 <p align="left">
   <img src="https://img.shields.io/badge/Lovable-FF3366?style=for-the-badge&logo=lightning&logoColor=white" alt="Lovable" />
@@ -37,20 +37,22 @@ Men **Shirin Zuhurjonova**, 14 yoshdaman. Hozirda **10-maktabda** hamda kelajak 
 
 ---
 
-### <img src="https://media.giphy.com/media/hS5S0wQZ1T7QpBw18v/giphy.gif" width="25px"> Men bilan bog'lanish
+### 💬 Men bilan bog'lanish
 
-Agar men bilan bog'lanmoqchi bo'lsangiz, quyidagi tugmalar orqali yozishingiz mumkin:
+Agar men bilan bog'lanmoqchi bo'lsangiz:
 
 <p align="left">
   <a href="mailto:szuhurjonova@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="tel:+998504770713">
-    <img src="https://img.shields.io/badge/Telefon-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telefon" />
-  </a>
 </p>
+
+> 📞 **Aloqa ma'lumotlari:** 
+> * 📧 Email: szuhurjonova@gmail.com
+> * 📱 Telefon: +998 50 477 07 13
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZGBN0V166xH8YxW64K/giphy.gif" width="100%" />
+  <i>"Kodingiz doimo xatosiz va kelajagingiz yorug' bo'lsin!" ✨</i>
 </p>
-
