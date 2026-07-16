@@ -1,45 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00C9FF,100:00E5A8&text=✨%20Shirin%20Zuhurjonova%20✨&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=✨%20Shirin%20Zuhurjonova%20✨&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+My+GitHub!;🤖+AI+Developer;💻+Frontend+Developer;🎨+UI%2FUX+Designer;🚀+Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=👋+Assalomu+alaykum!;🤖+AI+Dasturchisi;💻+Frontend+Developer;🎨+UI%2FUX+Designer;🚀+Har+doim+yangiliklarni+o'rganaman."/>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
 
 </div>
 
 ---
 
-# 🌸 About Me
+# 🌸 Men haqimda
 
 ```yaml
-## 🌸 Men haqimda
-
-```yaml
-👩 Ismim        : Shirin Zuhurjonova
-🎂 Yoshim       : 14 yosh
-🏫 Maktabim     : 10-maktab
-🎓 Akademiyam   : Robbit Akademiyasi
-🌍 Davlatim     : Oʻzbekiston
-💻 Oʻrganayotganlarim : Sun'iy intellekt (AI), Python va Frontend
-🎨 Dizayn vositalari  : Figma, Canva va Spline
-🎯 Maqsadim     : Kelajakda kuchli Full Stack hamda AI dasturchisi bo‘lib, foydali va zamonaviy loyihalar yaratish.
-```
+👩 Ismim             : Shirin Zuhurjonova
+🎂 Yoshim            : 14 yosh
+🏫 Maktabim          : 10-maktab
+🎓 Akademiyam        : Robbit Akademiyasi
+🌍 Davlatim          : Oʻzbekiston 🇺🇿
+💻 Oʻrganayotganlarim: Sun'iy intellekt (AI), Python va Frontend
+🎨 Dizayn vositalari : Figma, Canva, Spline, VS Code
+🚀 Maqsadim          : Kelajakda kuchli Full Stack va AI dasturchisi bo‘lib,
+                       zamonaviy hamda foydali loyihalar yaratish.
+✨ Shiorim           : "Har bir kun — yangi bilim va yangi imkoniyat."
 ```
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Men ishlatadigan texnologiyalar
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,figma,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,figma"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistikam
 
 <p align="center">
 
@@ -51,7 +47,29 @@
 
 ---
 
-## 📫 Contact Me
+# 📈 Eng ko‘p foydalanadigan tillar
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌟 Hozirda o‘rganayotganlarim
+
+- 🤖 Sun'iy intellekt (AI)
+- 🐍 Python
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 💙 UI/UX Dizayn
+- 🚀 Git va GitHub
+
+---
+
+# 📫 Bog‘lanish
 
 <p align="center">
 
@@ -65,8 +83,8 @@
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile!** ⭐
+### 🌸 Profilimga tashrif buyurganingiz uchun rahmat! 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:00C9FF,100:00E5A8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
 
 </div>
