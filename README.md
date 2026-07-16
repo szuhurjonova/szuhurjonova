@@ -1,43 +1,55 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Shirin%20Zuhurjonova&fontSize=58&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
-</p>
+<div align="center">
 
-<h3 align="center">👋 Assalomu alaykum! GitHub profilimga xush kelibsiz.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:00C9FF,100:00E5A8&text=✨%20Shirin%20Zuhurjonova%20✨&fontColor=ffffff&fontSize=55&animation=twinkling&fontAlignY=38"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Learner;Python+Developer;Frontend+Developer;Always+Learning+New+Things+🚀">
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+My+GitHub!;🤖+AI+Developer;💻+Frontend+Developer;🎨+UI%2FUX+Designer;🚀+Always+Learning+New+Things"/>
 
----
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
 
-## 👩‍💻 Men haqimda
-
-- 👩 Ismim: **Shirin Zuhurjonova**
-- 🎂 Yoshim: **14**
-- 🏫 Maktab: **10-maktab**
-- 🎓 Akademiya: **Robbit Akademiyasi**
-- 🤖 Hozirda **Sun'iy intellekt (AI)** va **Frontend** dasturlashni o‘rganmoqdaman.
-- 💻 Biladigan texnologiyalar: **Python, HTML5, CSS3, Scratch, App Inventor**
-- 🎨 Dizayn vositalari: **Figma, Canva, Spline, Lovable**
-- 🎯 Maqsadim: **Kelajakda kuchli Full Stack va AI Developer bo‘lish hamda foydali loyihalar yaratish.**
+</div>
 
 ---
 
-## 🛠 Men biladigan texnologiyalar
+# 🌸 About Me
+
+```yaml
+👩 Name      : Shirin Zuhurjonova
+🎂 Age       : 14
+🏫 School    : 10-school
+🎓 Academy   : Robbit Academy
+🌍 Country   : Uzbekistan
+💻 Learning  : AI • Python • Frontend
+🎨 Design    : Figma • Canva • Spline
+🎯 Goal      : Become a Professional Full Stack & AI Developer
+```
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git,figma,vscode"/>
+
 </p>
 
 ---
 
-## 📫 Bog'lanish
+## 📊 GitHub Stats
 
 <p align="center">
 
-<a href="mailto:szuhurjonova@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
 
 <a href="https://web.telegram.org/k/">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -47,6 +59,10 @@
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
-</p>
+<div align="center">
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:00C9FF,100:00E5A8"/>
+
+</div>
