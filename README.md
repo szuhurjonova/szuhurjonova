@@ -13,14 +13,18 @@
 # 🌸 About Me
 
 ```yaml
-👩 Name      : Shirin Zuhurjonova
-🎂 Age       : 14
-🏫 School    : 10-school
-🎓 Academy   : Robbit Academy
-🌍 Country   : Uzbekistan
-💻 Learning  : AI • Python • Frontend
-🎨 Design    : Figma • Canva • Spline
-🎯 Goal      : Become a Professional Full Stack & AI Developer
+## 🌸 Men haqimda
+
+```yaml
+👩 Ismim        : Shirin Zuhurjonova
+🎂 Yoshim       : 14 yosh
+🏫 Maktabim     : 10-maktab
+🎓 Akademiyam   : Robbit Akademiyasi
+🌍 Davlatim     : Oʻzbekiston
+💻 Oʻrganayotganlarim : Sun'iy intellekt (AI), Python va Frontend
+🎨 Dizayn vositalari  : Figma, Canva va Spline
+🎯 Maqsadim     : Kelajakda kuchli Full Stack hamda AI dasturchisi bo‘lib, foydali va zamonaviy loyihalar yaratish.
+```
 ```
 
 ---
